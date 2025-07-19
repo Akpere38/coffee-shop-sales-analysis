@@ -59,5 +59,6 @@ This project demonstrates the use of data analysis techniques to help small busi
 
 ![Hourly-Transactions-Bar-Chart](hourly-transactions-bar-chart.png)
 ![daily-transaction-bar-chart](daily-sales-bar-chat.png)
+![coffee-type-distribution](coffee-type-distribution.png)
 
 
