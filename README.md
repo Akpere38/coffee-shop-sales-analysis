@@ -58,6 +58,6 @@ This project demonstrates the use of data analysis techniques to help small busi
 ## 🖼️ Sample Visualizations
 
 ![Hourly-Transactions-Bar-Chart](hourly-transactions-bar-chart.png)
-![daily-transaction-lineplot](daily-sales-bar-chat.png)
+![daily-transaction-bar-chart](daily-sales-bar-chat.png)
 
 
