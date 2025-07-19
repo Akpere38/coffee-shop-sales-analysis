@@ -57,7 +57,7 @@ This project demonstrates the use of data analysis techniques to help small busi
 
 ## 🖼️ Sample Visualizations
 
-![coffee-sales-bar-chart](images/top_coffees.png)
-![daily-revenue-lineplot](images/daily_revenue.png)
+![Hourly-Transactions-Bar-Chart](hourly-transactions-bar-chart.png)
+![daily-transaction-lineplot](daily-sales-bar-chat.png)
 
 
